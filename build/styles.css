@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "myFirstFont";
+  src: url(assets/fonts/static/Inter-Bold.ttf);
+}
+h1 {
+  font-family: "myFirstFont";
+}
+
+/*# sourceMappingURL=styles.css.map */
